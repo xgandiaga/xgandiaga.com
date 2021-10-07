@@ -3,7 +3,7 @@
 module.exports = {
   url: `https://www.xgandiaga.com`,
   description: `Random stuff`,
-  pathPrefix: '/xgandiaga.com',
+  pathPrefix: '/',
   title: `Behold, my stuff`,
   disqusShortname: '',
   postsPerPage: 15,
