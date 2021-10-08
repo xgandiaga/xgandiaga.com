@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Behold, my stuff]]></title><description><![CDATA[Random stuff]]></description><link>https://www.xgandiaga.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Oct 2021 07:19:51 GMT</lastBuildDate><item><title><![CDATA[About me]]></title><description><![CDATA[Until I find a better place to put it in I’m adding the copyright notice to comply with the MIT license here: https://www.abhaynikam.me…]]></description><link>https://www.xgandiaga.com/pages/about/</link><guid isPermaLink="false">https://www.xgandiaga.com/pages/about/</guid><content:encoded>&lt;p&gt;Until I find a better place to put it in I’m adding the copyright notice to comply with the MIT license here:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Behold, my stuff]]></title><description><![CDATA[Random stuff]]></description><link>https://www.xgandiaga.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Oct 2021 07:32:37 GMT</lastBuildDate><item><title><![CDATA[About me]]></title><description><![CDATA[Until I find a better place to put it in I’m adding the copyright notice to comply with the MIT license here: Web design: https://www…]]></description><link>https://www.xgandiaga.com/pages/about/</link><guid isPermaLink="false">https://www.xgandiaga.com/pages/about/</guid><content:encoded>&lt;p&gt;Until I find a better place to put it in I’m adding the copyright notice to comply with the MIT license here:&lt;/p&gt;
+&lt;p&gt;Web design:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.abhaynikam.me/pages/about/&quot;&gt;https://www.abhaynikam.me/pages/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Better Youtube Plugin:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/MrAhmadAwais/&quot;&gt;https://twitter.com/MrAhmadAwais/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I’ll be also using this as a TODO:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Add search.js to gatsby&lt;/li&gt;
@@ -7,9 +10,19 @@
 &lt;li&gt;Find a better place for the copyright notice&lt;/li&gt;
 &lt;li&gt;Maybe fork the main project and pull request the searcher&lt;/li&gt;
 &lt;li&gt;Try out embed youtube&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Testing embed]]></title><description><![CDATA[apostrophes no apostrophes youtube:https://www.youtube.com/embed/2Xc9gXyf2G4 complete copypasta]]></description><link>https://www.xgandiaga.com/blog/2021-10-07-testing-embed/blablabla/</link><guid isPermaLink="false">https://www.xgandiaga.com/blog/2021-10-07-testing-embed/blablabla/</guid><pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;apostrophes&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;no apostrophes&lt;/h2&gt;
-&lt;p&gt;youtube:&lt;a href=&quot;https://www.youtube.com/embed/2Xc9gXyf2G4&quot;&gt;https://www.youtube.com/embed/2Xc9gXyf2G4&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;complete copypasta&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;youtube:https://www.youtube.com/embed/2Xc9gXyf2G4&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Testing embed]]></title><link>https://www.xgandiaga.com/blog/2021-10-07-testing-embed/blablabla/</link><guid isPermaLink="false">https://www.xgandiaga.com/blog/2021-10-07-testing-embed/blablabla/</guid><pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;#&lt;/span&gt; Look at this Video:&lt;/span&gt;
+
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`video: https://www.youtube.com/embed/2Xc9gXyf2G4`&lt;/span&gt;
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`youtube: https://www.youtube.com/watch?v=2Xc9gXyf2G4`&lt;/span&gt;
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`youtube: 2Xc9gXyf2G4`&lt;/span&gt;
+
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`vimeo: https://vimeo.com/5299404`&lt;/span&gt;
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`vimeo: 5299404`&lt;/span&gt;
+
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`videoPress: https://videopress.com/v/kUJmAcSf`&lt;/span&gt;
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`videoPress: kUJmAcSf`&lt;/span&gt;
+
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`twitch: https://player.twitch.tv/?channel=dakotaz`&lt;/span&gt;
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`twitch: https://player.twitch.tv/?autoplay=false&amp;amp;video=v273436948`&lt;/span&gt;
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`twitch: 273436948`&lt;/span&gt;
+&lt;span class=&quot;token code-snippet code keyword&quot;&gt;`twitchLive: dakotaz`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
