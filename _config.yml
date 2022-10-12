@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Xgandiaga
+title: xgandiaga
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Random thoughts, carefully constructed theory sandcastles and ever deeper rabbit holes. 
@@ -57,27 +57,24 @@ plugins:
 
 author:
   name   : "Xabier Gandiaga"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Nice useless piece of trivia, better write that down."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/doctormckay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/xgandiaga"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/doctormckay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/xgandiaga"
 
 defaults:
   # _posts
