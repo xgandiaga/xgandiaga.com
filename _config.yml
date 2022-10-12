@@ -62,7 +62,7 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/doctormckay"
+      url: "https://twitter.com/doctor_mckay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xgandiaga"
@@ -71,7 +71,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/doctormckay"
+      url: "https://twitter.com/doctor_mckay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xgandiaga"
