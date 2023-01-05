@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Xabier Gandiaga"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Nice useless piece of trivia, better write that down."
+  bio    : "Cardboard, useless trivia and tech tech."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
